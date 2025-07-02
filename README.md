@@ -10,7 +10,8 @@ Der Impuls für diese Fusion kam beim SaintWhoo Festival im Juni, wo ich bereits
 ## Umsetzung
 Die Umsetzung erfolgte mit TouchDesigner und einer Reihe von Audio- und visuellen Operatoren. Das Projekt wurde in mehrere Bereiche aufgeteilt:
 
-### Audioanalyse mit audioAnalysis
+### Audioanalyse mit audioAnalysis!
+
 Das Audiosignal wird live vom Mikrofon erfasst und analysiert, um Pegelveränderungen (Bass etc.) zu extrahieren. Diese steuern die Trigger.
 
 ### Zwei Animationsebenen (RGB / CWWW)
@@ -20,3 +21,5 @@ Je nach Logik entscheidet ein switch_animationen, ob RGB- oder CWWW-Visualisieru
 Die finale Visualisierung wird über ein select_TOP und ein switch_TOP an den LatLights-Controller weitergegeben.
 
 Alle Module sind beschriftet und annotiert – wie z.b. auch der switch_animationen-Knoten, der die Annotation „Animations-Auswahl“ trägt mit der Beschreibung „Schaltet zwischen RGB- und CWWWbasierend auf Logik-Trigger“
+
+[WhatsApp Image 2025-07-02 at 09 49 16 (1)](https://github.com/user-attachments/assets/61d000e6-374b-4273-b9a0-eb0654280eea)
