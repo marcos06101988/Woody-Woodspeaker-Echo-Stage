@@ -30,7 +30,7 @@ Alle Module sind beschriftet und annotiert – wie z.b. auch der switch_animatio
 <br>
 
 
-![WhatsApp Image 2025-07-02 at 09 49 16 (3)](https://github.com/user-attachments/assets/09f22a73-a901-4a9b-aafe-3ed1562cd78b)
+![WhatsApp Image 2025-07-02 at 09 49 16 (1)](https://github.com/user-attachments/assets/c5313ef2-daba-4421-a432-3f88e1d74262)
 
 
 ## 3. Komponentenplan
@@ -49,7 +49,8 @@ Die Installation besteht aus:
 <br>
 
 
-![WhatsApp Image 2025-07-02 at 09 49 16 (1)](https://github.com/user-attachments/assets/c5313ef2-daba-4421-a432-3f88e1d74262)
+![WhatsApp Image 2025-07-02 at 09 49 16 (3)](https://github.com/user-attachments/assets/09f22a73-a901-4a9b-aafe-3ed1562cd78b)
+
 
 ## 4. Umsetzungsprozess
 
