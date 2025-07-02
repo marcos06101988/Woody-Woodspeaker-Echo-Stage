@@ -29,7 +29,8 @@ Alle Module sind beschriftet und annotiert – wie z.b. auch der switch_animatio
 <br>
 <br>
 
-![Uploading WhatsApp Image 2025-07-02 at 09.49.16 (3).jpeg…]()
+
+![WhatsApp Image 2025-07-02 at 09 49 16 (3)](https://github.com/user-attachments/assets/09f22a73-a901-4a9b-aafe-3ed1562cd78b)
 
 
 ## 3. Komponentenplan
