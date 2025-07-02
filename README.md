@@ -69,5 +69,14 @@ Wenn ich nicht weiterkam, habe ich ChatGPT verwendet – besonders bei der Erkl�
 Die letzten 24 Stunden vor der Abgabe waren intensiv. Doch schlussendlich hat alles funktioniert – die Lichter reagierten korrekt auf die Musik. Ein wohlverdientes Calanda Glatsch auf der Bühne :) <br>
 <br>
 <br>
-<br>
 ![WhatsApp Image 2025-07-02 at 09 55 32](https://github.com/user-attachments/assets/6980a7f2-d800-4f9c-9106-2a371550cac9)
+
+
+## 4. Selbstreflexion und Lernforschritt
+
+Ich habe in diesem Projekt nicht nur gelernt, wie TouchDesigner im Detail funktioniert, sondern auch, wie wichtig Modularität und klare Logik beim Aufbau sind. Komplexität muss reduziert werden, um in der Zeit, die vorhanden war etwas zu zeigen, das funktioniert. Besonders beeindruckt hat mich, wie stark KI (z. B. ChatGPT) und Tutorials den Fortschritt beschleunigen – aber nur in Kombination mit eigenem Ausprobieren und Testen!
+
+Ich habe gelernt, Projekte besser zu planen, Flexibilität einzuplanen und auch Rückschläge sportlich zu nehmen. Die Bandbreite von CreaTec ist beeindruckend – und ich freue mich darauf, weitere Bereiche auszuprobieren. Dieses Projekt hat mich begeistert – und manchmal auch an meine Grenzen gebracht. Vorrallem werde ich die Funktion mit der Kamera und der Bewegungserkennung auf der Bühne mit eigener Visualisierung definitiv noch umsetzten in den nächsten Tagen. Es war vielleicht zuerst etwas zu ambitioniert aber ich denke mit dem Wissen und dem Fortschritt den ich gemacht habe in TouchDesigner sollte ich das auch hinkriegen. Damit ich für die Zukunft auch verstehe wie das mehreren Layern funktioniert. Jedoch bin ich mit dem Ergebniss sehr zufrieden und hoffe es gefällt den BesucherInnen genauso.
+
+
+Die Umsetzung meines Lichtinstallations-Konzepts mit TouchDesigner, Audioinput und LatLights war eine kreative Herausforderung. Es hat mir riesigen Spass gemacht, alle Komponenten zu verbinden und die Bühne im Medienhaus mit Leben zu füllen. Die Reaktionen der BesucherInnen bis jetzt haben gezeigt, dass sich die Mühe gelohnt hat. Am Ende blieb nur noch eins zu sagen: Installation funktioniert und Ziel erreicht – Calanda verdient würd ich mal sagen!
