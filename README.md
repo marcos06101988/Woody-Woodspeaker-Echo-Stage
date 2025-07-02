@@ -68,4 +68,6 @@ Wenn ich nicht weiterkam, habe ich ChatGPT verwendet – besonders bei der Erkl�
 ### Der finale Tag
 Die letzten 24 Stunden vor der Abgabe waren intensiv. Doch schlussendlich hat alles funktioniert – die Lichter reagierten korrekt auf die Musik. Ein wohlverdientes Calanda Glatsch auf der Bühne :) <br>
 <br>
+<br>
+<br>
 ![WhatsApp Image 2025-07-02 at 09 55 32](https://github.com/user-attachments/assets/6980a7f2-d800-4f9c-9106-2a371550cac9)
