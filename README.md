@@ -11,12 +11,12 @@ Der Impuls für diese Fusion kam beim SaintWhoo Festival im Juni, wo ich bereits
 Die Umsetzung erfolgte mit TouchDesigner und einer Reihe von Audio- und visuellen Operatoren. Das Projekt wurde in mehrere Bereiche aufgeteilt:
 
 
-### >>> Audioanalyse mit audioAnalysis!
+### *>>> Audioanalyse mit audioAnalysis!*
 - Das Audiosignal wird live vom Mikrofon erfasst und analysiert, um Pegelveränderungen zu extrahieren
 - Diese steuern die Trigger
 
 
-### >>> Zwei Animationsebenen (RGB / CWWW)
+### *>>> Zwei Animationsebenen (RGB / CWWW)*
 - Je nach Logik entscheidet ein switch_animationen, ob RGB- oder CWWW-Visualisierung aktiv ist 
 - Wenn das Mikro nicht aktiviert ist und keine Musik abgespielt wird, läuft ein Kaltweisslicht-Verlauf
 
