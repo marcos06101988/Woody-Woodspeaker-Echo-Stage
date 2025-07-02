@@ -17,7 +17,7 @@ Die Umsetzung erfolgte mit TouchDesigner und einer Reihe von Audio- und visuelle
 
 
 ### >>> Zwei Animationsebenen (RGB / KW)
-- Je nach Logik entscheidet ein switch_animationen, ob RGB- oder CWWW-Visualisierung aktiv ist 
+- Je nach Logik entscheidet ein switch_animationen, ob RGB- oder CW-Visualisierung (Coldwhite) aktiv ist 
 - Wenn das Mikro nicht aktiviert ist und keine Musik abgespielt wird, läuft ein Kaltweisslicht-Verlauf
 
 
@@ -25,7 +25,7 @@ Die Umsetzung erfolgte mit TouchDesigner und einer Reihe von Audio- und visuelle
 - Die Visualisierung wird über ein select_TOP und ein switch_TOP an die LatLights weitergegeben.
 
 
-Alle Module sind beschriftet und annotiert – wie z.b. auch der switch_animationen-Knoten, der die Annotation „Animations-Auswahl“ trägt mit der Beschreibung „Schaltet zwischen RGB- und CWWWbasierend auf Logik-Trigger“
+Alle Module sind beschriftet und annotiert – wie z.b. auch der switch_animationen-Knoten, der die Annotation „Animations-Auswahl“ trägt mit der Beschreibung „Schaltet zwischen RGB- und CW basierend auf Logik-Trigger“
 <br>
 <br>
 
@@ -55,7 +55,7 @@ Die Installation besteht aus:
 
 ### Startpunkt
 
-Erste Experimente mit TouchDesigner und einem simplen RGB-Shader. Rasch wurde klar, dass ich ein Umschalten zwischen mehreren Animationsebenen (RGB/CWWW) brauche.
+Erste Experimente mit TouchDesigner und einem simplen RGB-Shader. Rasch wurde klar, dass ich ein Umschalten zwischen mehreren Animationsebenen (RGB/CW) brauche.
 
 
 ### Rückschläge
