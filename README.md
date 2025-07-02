@@ -22,4 +22,5 @@ Die finale Visualisierung wird über ein select_TOP und ein switch_TOP an den La
 
 Alle Module sind beschriftet und annotiert – wie z.b. auch der switch_animationen-Knoten, der die Annotation „Animations-Auswahl“ trägt mit der Beschreibung „Schaltet zwischen RGB- und CWWWbasierend auf Logik-Trigger“
 
-[WhatsApp Image 2025-07-02 at 09 49 16 (1)](https://github.com/user-attachments/assets/61d000e6-374b-4273-b9a0-eb0654280eea)
+
+![WhatsApp Image 2025-07-02 at 09 49 16 (1)](https://github.com/user-attachments/assets/f6af7326-c87d-4791-ac2d-dd386492a554)
