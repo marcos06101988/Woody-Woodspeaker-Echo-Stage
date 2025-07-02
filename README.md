@@ -6,6 +6,7 @@ Die Idee zur Installation entstand durch mein Digezz-Projekt „Woody Woodspeake
 
 Der Impuls für diese Fusion kam beim SaintWhoo Festival im Juni, wo ich bereits mit den LatLights arbeiten durfte. Die Begeisterung für deren Ausdrucksstärke und Wirkung im Raum war so stark, dass ich diese in ein eigenständiges FH-Projekt übertragen wollte. Daraus wurde schrittweise das Konzept einer Echtzeit-Musikvisualisierung mit TouchDesigner.
 <br>
+![wws](https://github.com/user-attachments/assets/6e04ab85-d691-4e58-b00f-4105f8faa04a)
 <br>
 ## 2. Umsetzung
 Die Umsetzung erfolgte mit TouchDesigner und einer Reihe von Audio- und visuellen Operatoren. Das Projekt wurde in mehrere Bereiche aufgeteilt:
@@ -43,11 +44,16 @@ Die Installation besteht aus:
 - Holz-Bühne
 <br>
 
+
+![WhatsApp Image 2025-07-02 at 09 49 17](https://github.com/user-attachments/assets/5c66fc9a-f1ff-420e-a174-9a24974777d7)
+
 ## 4. Umsetzungsprozess
 
 ### Startpunkt
 
 Erste Experimente mit TouchDesigner und einem simplen RGB-Shader. Rasch wurde klar, dass ich ein Umschalten zwischen mehreren Animationsebenen (RGB/CWWW) brauche.
+
+![WhatsApp Image 2025-07-02 at 09 49 17](https://github.com/user-attachments/assets/1de581a1-ab7e-4688-a8ef-8feb8eb30d94)
 
 ### Rückschläge
 
