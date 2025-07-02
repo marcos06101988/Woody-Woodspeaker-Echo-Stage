@@ -28,6 +28,10 @@ Die Umsetzung erfolgte mit TouchDesigner und einer Reihe von Audio- und visuelle
 Alle Module sind beschriftet und annotiert – wie z.b. auch der switch_animationen-Knoten, der die Annotation „Animations-Auswahl“ trägt mit der Beschreibung „Schaltet zwischen RGB- und CWWWbasierend auf Logik-Trigger“
 <br>
 <br>
+
+![Uploading WhatsApp Image 2025-07-02 at 09.49.16 (3).jpeg…]()
+
+
 ## 3. Komponentenplan
 
 Die Installation besteht aus:
@@ -52,7 +56,6 @@ Die Installation besteht aus:
 
 Erste Experimente mit TouchDesigner und einem simplen RGB-Shader. Rasch wurde klar, dass ich ein Umschalten zwischen mehreren Animationsebenen (RGB/CWWW) brauche.
 
-![WhatsApp Image 2025-07-02 at 09 49 17](https://github.com/user-attachments/assets/1de581a1-ab7e-4688-a8ef-8feb8eb30d94)
 
 ### Rückschläge
 
