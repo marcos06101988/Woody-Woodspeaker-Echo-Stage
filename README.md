@@ -30,7 +30,7 @@ Alle Module sind beschriftet und annotiert – wie z.b. auch der switch_animatio
 
 
 
-## Komponentenplan
+## 3. Komponentenplan
 
 Die Installation besteht aus:
 
@@ -43,3 +43,30 @@ Technik
 Aufbau
 - Traversenrahmen und Stangen
 - Holz-Bühne
+
+
+## 4. Umsetzungsprozess
+
+### Startpunkt
+
+Erste Experimente mit TouchDesigner und einem simplen RGB-Shader. Rasch wurde klar, dass ich ein Umschalten zwischen mehreren Animationsebenen (RGB/CWWW) brauche.
+
+### Rückschläge
+
+*kursiv* Überkomplexität 
+Die Idee, auch die Kamera für Personenerkennung zu nutzen, wurde zu aufwändig in Kombination mit Musikvisualisierung. Die Überlegung war, dass sich die Visualisierung auch verändert durch das Betreten der Bühne. Ich habe diesen Teil auch gestrichen um Stabilität im Projekt zu gewährleisten. Lieber weniger aber dafür funktioniert alles ordentlich war so mein Fazit daraus.
+
+*kursiv* Performanceprobleme
+Einige Rampen-Animationen liefen zu langsam. Die transform-TOPs wurden daher skaliert (z. B. auf 0.4), um Realtime-Tauglichkeit zu erhalten.
+
+*kursiv* Unklare Logik
+Die Verschaltung des Audio-Triggers mit dem switch_animationen-TOP war nicht einfach für mich. Ich habe hier mehrfach umgebaut und Feedback von Jan und ChatGPT einholen müssen bis es wirklich funktionierte.
+
+*kursiv* Hilfequellen
+Wenn ich nicht weiterkam, habe ich ChatGPT verwendet – besonders bei der Erklärung von select_TOP und Triggerlogiken. Zusätzlich haben mir YouTube-Tutorials zu Musikvisualisierung geholfen. Und natürlich hat mir Jan, hilfsbereit wie er ist, unter die Arme gegriffen wenn ich irgendwo angeschlagen bin und auch mit KI nicht weiterkam.
+
+*kursiv* Der finale Tag
+Die letzten 24 Stunden vor der Abgabe waren intensiv. Doch schlussendlich hat alles funktioniert – die Lichter reagierten korrekt auf die Musik.
+
+*kursiv* Belohnung
+Ein wohlverdientes Calanda Glatsch auf der Bühne – standesgemäß in Chur :)
