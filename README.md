@@ -12,17 +12,17 @@ Die Umsetzung erfolgte mit TouchDesigner und einer Reihe von Audio- und visuelle
 
 
 ### Audioanalyse mit audioAnalysis!
-- Das Audiosignal wird live vom Mikrofon erfasst und analysiert, um Pegelveränderungen (Bass etc.) zu extrahieren.
-- Diese steuern die Trigger.
+- Das Audiosignal wird live vom Mikrofon erfasst und analysiert, um Pegelveränderungen zu extrahieren
+- Diese steuern die Trigger
 
 
 ### Zwei Animationsebenen (RGB / CWWW)
-- Je nach Logik entscheidet ein switch_animationen, ob RGB- oder CWWW-Visualisierung aktiv ist. 
-- Wenn das Mikro nicht aktiviert ist und keine Musik abgespielt wird, läuft im Loop ein Kaltweisslicht-Verlauf über alle Lampen. 
+- Je nach Logik entscheidet ein switch_animationen, ob RGB- oder CWWW-Visualisierung aktiv ist 
+- Wenn das Mikro nicht aktiviert ist und keine Musik abgespielt wird, läuft ein Kaltweisslicht-Verlauf
 
 
 ### Output zu den LatLights
-- Die finale Visualisierung wird über ein select_TOP und ein switch_TOP an den LatLights-Controller weitergegeben.
+- Die Visualisierung wird über ein select_TOP und ein switch_TOP an die LatLights weitergegeben.
 
 Alle Module sind beschriftet und annotiert – wie z.b. auch der switch_animationen-Knoten, der die Annotation „Animations-Auswahl“ trägt mit der Beschreibung „Schaltet zwischen RGB- und CWWWbasierend auf Logik-Trigger“
 
