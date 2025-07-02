@@ -11,7 +11,7 @@ Der Impuls für diese Fusion kam beim SaintWhoo Festival im Juni, wo ich bereits
 Die Umsetzung erfolgte mit TouchDesigner und einer Reihe von Audio- und visuellen Operatoren. Das Projekt wurde in mehrere Bereiche aufgeteilt:
 
 
-### >>> Audioanalyse mit audioAnalysis!
+### >>> Audioanalyse mit audioAnalyze!
 - Das Audiosignal wird live vom Mikrofon erfasst und analysiert, um Pegelveränderungen zu extrahieren
 - Diese steuern die Trigger
 
