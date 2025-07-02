@@ -42,8 +42,7 @@ Aufbau
 - Traversenrahmen und Stangen
 - Holz-Bühne
 <br>
-<br>
-<br>
+
 ## 4. Umsetzungsprozess
 
 ### Startpunkt
