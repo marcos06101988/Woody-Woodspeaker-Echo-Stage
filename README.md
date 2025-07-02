@@ -32,13 +32,13 @@ Alle Module sind beschriftet und annotiert – wie z.b. auch der switch_animatio
 
 Die Installation besteht aus:
 
-Technik
+**Technik**
 - LatLights (RGBW LED-Röhren mit DMX-Controller)
 - Woody Woodspeaker als Audioquelle
 - Mikrofon / Audiointerface zur Live-Erfassung
 - TouchDesigner-Laptop als Steuerzentrale
 
-Aufbau
+**Aufbau**
 - Traversenrahmen und Stangen
 - Holz-Bühne
 <br>
