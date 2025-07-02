@@ -45,7 +45,7 @@ Die Installation besteht aus:
 <br>
 
 
-![WhatsApp Image 2025-07-02 at 09 49 17](https://github.com/user-attachments/assets/5c66fc9a-f1ff-420e-a174-9a24974777d7)
+![WhatsApp Image 2025-07-02 at 09 49 16 (1)](https://github.com/user-attachments/assets/c5313ef2-daba-4421-a432-3f88e1d74262)
 
 ## 4. Umsetzungsprozess
 
