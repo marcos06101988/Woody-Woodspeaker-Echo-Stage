@@ -7,6 +7,7 @@ Die Idee zur Installation entstand durch mein Digezz-Projekt „Woody Woodspeake
 Der Impuls für diese Fusion kam beim SaintWhoo Festival im Juni, wo ich bereits mit den LatLights arbeiten durfte. Die Begeisterung für deren Ausdrucksstärke und Wirkung im Raum war so stark, dass ich diese in ein eigenständiges FH-Projekt übertragen wollte. Daraus wurde schrittweise das Konzept einer Echtzeit-Musikvisualisierung mit TouchDesigner.
 <br>
 <br>
+<br>
 ## 2. Umsetzung
 Die Umsetzung erfolgte mit TouchDesigner und einer Reihe von Audio- und visuellen Operatoren. Das Projekt wurde in mehrere Bereiche aufgeteilt:
 
@@ -28,6 +29,7 @@ Die Umsetzung erfolgte mit TouchDesigner und einer Reihe von Audio- und visuelle
 Alle Module sind beschriftet und annotiert – wie z.b. auch der switch_animationen-Knoten, der die Annotation „Animations-Auswahl“ trägt mit der Beschreibung „Schaltet zwischen RGB- und CWWWbasierend auf Logik-Trigger“
 <br>
 <br>
+<br>
 ## 3. Komponentenplan
 
 Die Installation besteht aus:
@@ -41,8 +43,9 @@ Technik
 Aufbau
 - Traversenrahmen und Stangen
 - Holz-Bühne
-
-
+<br>
+<br>
+<br>
 ## 4. Umsetzungsprozess
 
 ### Startpunkt
@@ -68,9 +71,10 @@ Die letzten 24 Stunden vor der Abgabe waren intensiv. Doch schlussendlich hat al
 <br>
 <br>
 ![WhatsApp Image 2025-07-02 at 09 55 32](https://github.com/user-attachments/assets/6980a7f2-d800-4f9c-9106-2a371550cac9)
-
-
-## 4. Selbstreflexion und Lernforschritt
+<br>
+<br>
+<br>
+## 5. Selbstreflexion und Lernforschritt
 
 Ich habe in diesem Projekt nicht nur gelernt, wie TouchDesigner im Detail funktioniert, sondern auch, wie wichtig Modularität und klare Logik beim Aufbau sind. Komplexität muss reduziert werden, um in der Zeit, die vorhanden war etwas zu zeigen, das funktioniert. Besonders beeindruckt hat mich, wie stark KI (z. B. ChatGPT) und Tutorials den Fortschritt beschleunigen – aber nur in Kombination mit eigenem Ausprobieren und Testen!
 
