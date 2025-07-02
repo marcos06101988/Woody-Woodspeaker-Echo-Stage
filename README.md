@@ -24,7 +24,22 @@ Die Umsetzung erfolgte mit TouchDesigner und einer Reihe von Audio- und visuelle
 ### Output zu den LatLights
 - Die Visualisierung wird über ein select_TOP und ein switch_TOP an die LatLights weitergegeben.
 
+
 Alle Module sind beschriftet und annotiert – wie z.b. auch der switch_animationen-Knoten, der die Annotation „Animations-Auswahl“ trägt mit der Beschreibung „Schaltet zwischen RGB- und CWWWbasierend auf Logik-Trigger“
 
 
-![WhatsApp Image 2025-07-02 at 09 49 16 (1)](https://github.com/user-attachments/assets/f6af7326-c87d-4791-ac2d-dd386492a554)
+
+
+## Komponentenplan
+
+Die Installation besteht aus:
+
+Technik
+- LatLights (RGBW LED-Röhren mit DMX-Controller)
+- Woody Woodspeaker als Audioquelle
+- Mikrofon / Audiointerface zur Live-Erfassung
+- TouchDesigner-Laptop als Steuerzentrale
+
+Aufbau
+- Traversenrahmen und Stangen
+- Holz-Bühne
