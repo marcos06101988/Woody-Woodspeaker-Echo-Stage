@@ -11,12 +11,12 @@ Der Impuls für diese Fusion kam beim SaintWhoo Festival im Juni, wo ich bereits
 Die Umsetzung erfolgte mit TouchDesigner und einer Reihe von Audio- und visuellen Operatoren. Das Projekt wurde in mehrere Bereiche aufgeteilt:
 
 
-### *>>> Audioanalyse mit audioAnalysis!*
+### >>> Audioanalyse mit audioAnalysis!
 - Das Audiosignal wird live vom Mikrofon erfasst und analysiert, um Pegelveränderungen zu extrahieren
 - Diese steuern die Trigger
 
 
-### *>>> Zwei Animationsebenen (RGB / CWWW)*
+### >>> Zwei Animationsebenen (RGB / KW)
 - Je nach Logik entscheidet ein switch_animationen, ob RGB- oder CWWW-Visualisierung aktiv ist 
 - Wenn das Mikro nicht aktiviert ist und keine Musik abgespielt wird, läuft ein Kaltweisslicht-Verlauf
 
@@ -78,3 +78,14 @@ Ich habe gelernt, Projekte besser zu planen, Flexibilität einzuplanen und auch 
 
 
 Die Umsetzung meines Lichtinstallations-Konzepts mit TouchDesigner, Audioinput und LatLights war eine kreative Herausforderung. Es hat mir riesigen Spass gemacht, alle Komponenten zu verbinden und die Bühne im Medienhaus mit Leben zu füllen. Die Reaktionen der BesucherInnen bis jetzt haben gezeigt, dass sich die Mühe gelohnt hat. Am Ende blieb nur noch eins zu sagen: Installation funktioniert und Ziel erreicht – Calanda verdient würd ich mal sagen!
+
+## 6. Screenshots Projetkstruktur
+### Projektübersicht
+![Projektübersicht](https://github.com/user-attachments/assets/f13b554b-5bbe-42b7-b612-e907fdeed4c1)
+
+### Coldwhite Animation
+![Coldwhite Animation](https://github.com/user-attachments/assets/6da548b4-9f75-4c9d-89f2-2526bf090db3)
+
+### RGB Animation bei Interaktion
+![RGB Animation bei Interaktion](https://github.com/user-attachments/assets/736a2430-bda6-43d5-b5e4-db729807e1e9)
+
