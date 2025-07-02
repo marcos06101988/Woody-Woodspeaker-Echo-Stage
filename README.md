@@ -1,4 +1,4 @@
-### Woody-Woodspeaker-Echo-Stage
+# Woody-Woodspeaker-Echo-Stage
 
 ## Konzept und Ausgangslage
 
