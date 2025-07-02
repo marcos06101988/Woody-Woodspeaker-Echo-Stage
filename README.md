@@ -53,10 +53,10 @@ Erste Experimente mit TouchDesigner und einem simplen RGB-Shader. Rasch wurde kl
 
 ### Rückschläge
 
-*kursiv* Überkomplexität 
+*kursiv*Überkomplexität 
 Die Idee, auch die Kamera für Personenerkennung zu nutzen, wurde zu aufwändig in Kombination mit Musikvisualisierung. Die Überlegung war, dass sich die Visualisierung auch verändert durch das Betreten der Bühne. Ich habe diesen Teil auch gestrichen um Stabilität im Projekt zu gewährleisten. Lieber weniger aber dafür funktioniert alles ordentlich war so mein Fazit daraus.
 
-*kursiv* Performanceprobleme
+*kursiv*Performanceprobleme
 Einige Rampen-Animationen liefen zu langsam. Die transform-TOPs wurden daher skaliert (z. B. auf 0.4), um Realtime-Tauglichkeit zu erhalten.
 
 *kursiv* Unklare Logik
