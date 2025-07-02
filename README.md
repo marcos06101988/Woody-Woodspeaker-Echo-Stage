@@ -62,11 +62,11 @@ Einige Rampen-Animationen liefen zu langsam. Die transform-TOPs wurden daher ska
 *kursiv* Unklare Logik <br>
 Die Verschaltung des Audio-Triggers mit dem switch_animationen-TOP war nicht einfach für mich. Ich habe hier mehrfach umgebaut und Feedback von Jan und ChatGPT einholen müssen bis es wirklich funktionierte.
 
-- *Hilfequellen* <br>
+### Hilfequellen
 Wenn ich nicht weiterkam, habe ich ChatGPT verwendet – besonders bei der Erklärung von select_TOP und Triggerlogiken. Zusätzlich haben mir YouTube-Tutorials zu Musikvisualisierung geholfen. Und natürlich hat mir Jan, hilfsbereit wie er ist, unter die Arme gegriffen wenn ich irgendwo angeschlagen bin und auch mit KI nicht weiterkam.
 
-- *Der finale Tag* <br>
+### Der finale Tag
 Die letzten 24 Stunden vor der Abgabe waren intensiv. Doch schlussendlich hat alles funktioniert – die Lichter reagierten korrekt auf die Musik.
 
-- *Belohnung* <br>
+### Belohnung
 Ein wohlverdientes Calanda Glatsch auf der Bühne – standesgemäß in Chur :)
