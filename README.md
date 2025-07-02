@@ -59,14 +59,14 @@ Die Idee, auch die Kamera für Personenerkennung zu nutzen, wurde zu aufwändig 
 - *Performanceprobleme* <br>
 Einige Rampen-Animationen liefen zu langsam. Die transform-TOPs wurden daher skaliert (z. B. auf 0.4), um Realtime-Tauglichkeit zu erhalten.
 
-*kursiv* Unklare Logik
+*kursiv* Unklare Logik <br>
 Die Verschaltung des Audio-Triggers mit dem switch_animationen-TOP war nicht einfach für mich. Ich habe hier mehrfach umgebaut und Feedback von Jan und ChatGPT einholen müssen bis es wirklich funktionierte.
 
-*kursiv* Hilfequellen
+- *Hilfequellen* <br>
 Wenn ich nicht weiterkam, habe ich ChatGPT verwendet – besonders bei der Erklärung von select_TOP und Triggerlogiken. Zusätzlich haben mir YouTube-Tutorials zu Musikvisualisierung geholfen. Und natürlich hat mir Jan, hilfsbereit wie er ist, unter die Arme gegriffen wenn ich irgendwo angeschlagen bin und auch mit KI nicht weiterkam.
 
-*kursiv* Der finale Tag
+- *Der finale Tag* <br>
 Die letzten 24 Stunden vor der Abgabe waren intensiv. Doch schlussendlich hat alles funktioniert – die Lichter reagierten korrekt auf die Musik.
 
-*kursiv* Belohnung
+- *Belohnung* <br>
 Ein wohlverdientes Calanda Glatsch auf der Bühne – standesgemäß in Chur :)
