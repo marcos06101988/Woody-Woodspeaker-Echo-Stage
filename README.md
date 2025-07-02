@@ -83,9 +83,11 @@ Die Umsetzung meines Lichtinstallations-Konzepts mit TouchDesigner, Audioinput u
 ### Projektübersicht
 ![Projektübersicht](https://github.com/user-attachments/assets/f13b554b-5bbe-42b7-b612-e907fdeed4c1)
 
-### Coldwhite Animation
+### Audioinput & Steuerlogik
+![RGB Animation bei Interaktion](https://github.com/user-attachments/assets/736a2430-bda6-43d5-b5e4-db729807e1e9)
+
+### Standard Lichtlayer 
 ![Coldwhite Animation](https://github.com/user-attachments/assets/6da548b4-9f75-4c9d-89f2-2526bf090db3)
 
-### RGB Animation bei Interaktion
-![RGB Animation bei Interaktion](https://github.com/user-attachments/assets/736a2430-bda6-43d5-b5e4-db729807e1e9)
+
 
