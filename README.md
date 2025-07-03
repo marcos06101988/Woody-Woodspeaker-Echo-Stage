@@ -92,7 +92,7 @@ Ich habe gelernt, Projekte besser zu planen, Flexibilität einzuplanen und auch 
 
 Die Umsetzung meines Lichtinstallations-Konzepts mit TouchDesigner, Audioinput und LatLights war eine kreative Herausforderung. Es hat mir riesigen Spass gemacht, alle Komponenten zu verbinden und die Bühne im Medienhaus mit Leben zu füllen. Die Reaktionen der BesucherInnen bis jetzt haben gezeigt, dass sich die Mühe gelohnt hat. Am Ende blieb nur noch eins zu sagen: Installation funktioniert und Ziel erreicht – Calanda verdient würd ich mal sagen!
 
-Hier kannst du dir die Lichtinstallation anschauen: https://youtu.be/GDGriaw9bpA
+Hier kannst du dir die Lichtinstallation anschauen: [https://youtu.be/GDGriaw9bpA](https://youtu.be/hQzhQPAgyk8)
 
 ## 6. Screenshots Projetkstruktur
 ### Projektübersicht
