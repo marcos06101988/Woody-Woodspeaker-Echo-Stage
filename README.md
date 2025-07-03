@@ -9,6 +9,9 @@ Die Idee zur Installation entstand durch den „Woody Woodspeaker“, ein selbst
 
 Der Impuls für diese Fusion kam beim SaintWhoo Festival im Juni, wo ich bereits mit den LatLights arbeiten durfte. Die Begeisterung für deren Ausdrucksstärke und Wirkung im Raum war so stark, dass ich diese in ein eigenständiges FH-Projekt übertragen wollte. Daraus wurde schrittweise das Konzept einer Echtzeit-Musikvisualisierung mit TouchDesigner.
 <br>
+
+![EchoStage](https://github.com/user-attachments/assets/3c1db8c6-599d-4757-87b8-28d4721aa823)
+
 <br>
 ## 2. Umsetzung
 Die Umsetzung erfolgte mit TouchDesigner und einer Reihe von Audio- und visuellen Operatoren. Das Projekt wurde in mehrere Bereiche aufgeteilt:
