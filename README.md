@@ -80,7 +80,7 @@ Die Verschaltung des Audio-Triggers mit dem switch_animationen-TOP war nicht ein
 Wenn ich nicht weiterkam, habe ich ChatGPT verwendet – besonders bei der Erklärung von select_TOP und Triggerlogiken. Zusätzlich haben mir YouTube-Tutorials zu Musikvisualisierung geholfen. Und natürlich hat mir Jan, hilfsbereit wie er ist, unter die Arme gegriffen wenn ich irgendwo angeschlagen bin und auch mit KI nicht weiterkam.
 
 ### Der finale Tag
-Die letzten 24 Stunden vor der Abgabe waren intensiv. Doch schlussendlich hat alles funktioniert – die Lichter reagierten korrekt auf die Musik. Zur Belohnung gab es dann ein kühles Calanda Glatsch auf der Bühne :) <br>
+Die letzten 24 Stunden vor der Abgabe waren intensiv. Doch schlussendlich hat alles funktioniert – die Lichter reagierten korrekt auf die Musik. Zur Belohnung gab es dann ein kühles Calanda Glatsch zur Lichtshow :) <br>
 <br>
 <br>
 ![WhatsApp Image 2025-07-02 at 09 55 32](https://github.com/user-attachments/assets/6980a7f2-d800-4f9c-9106-2a371550cac9)
